@@ -3,7 +3,8 @@ body{
     background-color:#aaa;
 }
 
-.menu li{
+.menu ul{
+    margin-left: 0px;
     list-style: none;
 }
 
@@ -19,6 +20,10 @@ body{
     width: 150px;
     float: left;    
 }
+
+.menu ul{
+    margin-left: 0px;
+    }
 
 .menu li{
     padding: 3px;
