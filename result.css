@@ -43,7 +43,7 @@ body{
 .taikai li{
     background-color: #aaa;
     font-size: 15px;
-    padding: 3px;
+    padding: 5px;
     border-bottom: 1px solid #000;
     border-top: 3px solid #000;
 }
@@ -58,5 +58,6 @@ h2{
 .taikai p{
     margin: 5px;
     font-size: 12px;
+    padding: 5px;
+    border-bottom: 1px solid #4af;
 }
-    
